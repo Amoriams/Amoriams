@@ -1,31 +1,54 @@
 
 # Olá, sou Amoriams 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonada por desenvolvimento de software, código aberto e aprendizado contínuo. Aqui você encontrará uma coleção dos meus projetos, contribuições e interesses.
+# 👋 Bem-vindo(a) ao meu GitHub!
 
-🔭 Projetos
-- ainda no aprendizado para o meu primeiro projeto.
+Sou apaixonada por desenvolvimento de software, código aberto e aprendizado contínuo. Aqui você vai encontrar a minha jornada como desenvolvedora, projetos, estudos e explorações pessoais!
 
-🌱 Aprendizado
-Atualmente, estou aprendendo sobre:
-- Desenvolvimento Java, com foco em back-end e programação orientada a objetos.
-- Estruturas de dados e algoritmos, buscando aprimorar minha lógica de programação.
-- Ferramentas e práticas para certificações em back-end Java, com a meta de adquirir um conhecimento sólido.
-- Desenvolvimento de habilidades em lógica de programação e matemática para melhorar minhas habilidades no desenvolvimento de software.
+---
 
-💬 Pergunte-me Sobre
-- Jogos
-- Contribuições para código aberto
-- Melhores práticas em engenharia de software
+## 🚀 Sobre Mim
 
-📫 Como me encontrar
-- E-mail: Julia.amorim.599@gmail.com
-- LinkedIn: Julia Amorim Dos Santos (www.linkedin.com/in/julia-amorim-dos-santos)
+🎓 Estudante dedicada de desenvolvimento Java, com foco em back-end e orientação a objetos  
+📚 Estudando estruturas de dados e lógica para aprimorar minha programação  
+🎯 Objetivo: me tornar Engenheira de Software com foco em Desenvolvimento Web
 
-⚡ Curiosidade
-Adoro explorar novas tecnologias e aplicá-las para resolver problemas do mundo real, amo aprender coisas novas além de vivenciar novas experiências. 
-No meu tempo livre, gosto de jogar video-game, ler livros, ouvir musica e ate mesmo codar.
+---
 
-Sinta-se à vontade para explorar meus repositórios e não hesite em entrar em contato caso tenha alguma dúvida ou ideia de colaboração!
+## 📌 O que estou aprendendo agora
 
-Feliz codificação! 🚀
+- Java (orientação a objetos, lógica, back-end)
+- Estruturas de dados e algoritmos
+- Fundamentos de matemática para programadoras
+- Práticas e ferramentas para certificações de back-end
+- Git e GitHub para versionamento
+
+---
+
+## 🎮 Curiosidades
+
+- Amo jogar vídeo game 🎮  
+- Gosto de livros, música e descobrir tecnologias novas  
+- Codar no tempo livre me relaxa! 😄
+
+---
+
+## 📫 Como me encontrar
+
+- ✉️ Email: julia.amorim.599@gmail.com  
+- 🔗 LinkedIn: [Julia Amorim dos Santos](https://www.linkedin.com/in/julia-amorim-dos-santos)
+
+---
+
+## 🛠️ Em breve...
+
+- Meu primeiro projeto Java no GitHub
+- Aplicações práticas com Spring Boot
+- APIs RESTful
+- Projetos com banco de dados
+
+---
+
+**Sinta-se à vontade para explorar meus repositórios e me chamar se quiser colaborar!**
+
+Feliz codificação! 💻🚀
